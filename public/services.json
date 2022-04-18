@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Sajek",
-        "price": "10000",
+        "price": "2400",
         "hireMe": "I am a travel guider. To travel the whole Bangladesh you can contact with me. I will help you to travel the whole Bangladesh. For more details click on the checkout button ",
         "description": {
             "Ticket": "Up-Down Bus ticket",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "title": "Bandarban",
-        "price": "15000",
+        "price": "3500",
         "hireMe": "I am a travel guider. To travel the whole Bangladesh you can contact with me. I will help you to travel the whole Bangladesh. For more details click on the checkout button",
         "description": {
             "Ticket": "Up-Down Bus ticket",
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "title": "Cox's Bazar",
-        "price": "25000",
+        "price": "5000",
         "hireMe": "I am a travel guider. To travel the whole Bangladesh you can contact with me. I will help you to travel the whole Bangladesh. For more details click on the checkout button",
         "description": {
             "Ticket": "Up-Down Bus ticket",
