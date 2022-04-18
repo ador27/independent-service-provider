@@ -3,6 +3,7 @@ import user from '../../../Images/icons/user.png';
 import mail from '../../../Images/icons/mail.png';
 import password from '../../../Images/icons/password.png';
 import { Link } from 'react-router-dom';
+import SocialLogin from '../SocialLogin/SocialLogin';
 
 const Register = () => {
     return (
@@ -31,10 +32,12 @@ const Register = () => {
                     </div>
                     <button value="button" className="px-4 py-2 rounded bg-orange-400 text-white hover:bg-orange-700 my-4 w-full" id="whoobe-ibemp">Register</button>
                 </div>
+                <p>Already have an account?
+                    <Link to="/login" className=' text-blue-500 no-underline mx-2'>Please Login</Link>
+                </p>
+                <SocialLogin></SocialLogin>
             </form>
-            <p>Already have an account?
-                <Link to="/login" className=' text-blue-500 no-underline mx-2'>Please Login</Link>
-            </p>
+
         </div>
     );
 };
