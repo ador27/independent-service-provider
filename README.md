@@ -9,3 +9,8 @@
 * Customer Revies available.
 * Google login is also available.
 
+
+## List of Technologies:
+1. Firebase authentication system.
+2. Tailwind css for design and responsive part.
+3. React js is used for create this website.
