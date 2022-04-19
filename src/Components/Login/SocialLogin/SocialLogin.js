@@ -10,11 +10,6 @@ const SocialLogin = () => {
     let errorElement;
 
 
-    // if (loading || loading1) {
-    //     return <Loading></Loading>
-    // }
-
-
     if (error) {
         errorElement = <p className='text-red-600'>Error: {error?.message}</p>
 
