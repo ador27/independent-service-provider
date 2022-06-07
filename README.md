@@ -4,6 +4,9 @@
 # Website Link: https://travel-guide-service.web.app/
 
 * In this website there is 5 nav items.
+* Authentication Implementation.
+* Travel-guide services with details.
+* Service Booking.
 * Here is login and registration system.
 * Here you can checkout your travel packages.
 * Customer Reviews available.
